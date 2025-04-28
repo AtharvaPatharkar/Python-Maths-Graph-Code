@@ -1,8 +1,11 @@
 # 📊 Python-Maths-Graph-Code
 
+
 Welcome to **Python-Maths-Graph-Code**! 🚀 This repository contains various Python scripts that generate mathematical graphs and plots. Each file runs independently and produces a unique mathematical visualization. 
 
+
 ## 📁 Files in the Repository
+
 
 - 📈 `Allometric-Functions.py`
 - 📉 `Ceiling-Function.py`
